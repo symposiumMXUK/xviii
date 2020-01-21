@@ -36,4 +36,4 @@ Jorge Llamas Orozco
 Chair of the organising committee
 
 
-#### Abstract template [here](abstractTemplate).
+#### Abstract template [here](../assets/Abstract_template_XVIII_Mexican_Symposium.docx).
