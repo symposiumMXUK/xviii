@@ -4,6 +4,7 @@ title:  "Call for Abstracts"
 date:   2020-01-21 20:00:00
 isStaticPost: true
 ---
+![Symposium](../img/sections-background/logo-text.jpg)
 
 The committee of the XVIII Symposium of Mexican Studies and Students in the UK invites researchers, taught and research students to submit abstracts for poster or oral presentations at our __XVIII Symposium of Mexican Studies and Students in the UK__, this year taking place at The University of Nottingham.
 
@@ -20,7 +21,7 @@ Abstracts will be reviewed by the committee. Acceptance will be based on topic, 
 
 __Submission guidelines:__
 
-Abstracts must be no more than 300 words in accordance with the abstract submission template. Abstracts must be sent to symposium.mxuk.2020@gmail.com before 23:59 on the 27th of February 2020.
+Abstracts must be no more than 300 words in accordance with the abstract submission template. Abstracts must be sent to [symposium.mxuk.2020@gmail.com](mailto:symposium.mxuk.2020@gmail.com) before 23:59 on the 27th of February 2020.
 
 Timetable:
 * __22nd January 2020:__ Call for abstracts publication.
