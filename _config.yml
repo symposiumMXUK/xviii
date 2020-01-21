@@ -55,7 +55,7 @@ rightNavigationButtons:
  #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "nottingham-intro2.jpg"
+heroImage: "nottingham-intro.jpg"
 heroTitle: "XVIII Symposium of Mexican Studies and Students in the UK"
 eventDate: "8-10 July 2020, Nottingham UK"
 #typeoutTextValues: '"", "Students", "Studies"'
