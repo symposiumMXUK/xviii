@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Symposium MX UK xviii"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "XVIII Symposium of Mexican Studies and Students in the UK"
+email: "symposium.mxuk.2020@gmail.com"
+description: "XVIII Symposium of Mexican Studies and Students in the UK"
 baseurl: "/xviii"
 url: "http://symposiumMXUK.github.io"
 permalink: "/blog/:title"
