@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 #c4pUrl: "http://bit.ly/dfua-c4p"
-#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+abstractTemplate: "/assets/Abstract_template_XVIII_Mexican_Symposium.docx"
 
 
 # Navigation
@@ -61,8 +61,9 @@ eventDate: "8-10 July 2020, Nottingham UK"
 typeoutTextValues: '"", "Students", "Studies"'
 typeoutFallback: "synergy"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ #- {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://gmail.us4.list-manage.com/subscribe?u=218f27bb9dba8523f2151ce38&id=3be3dbcb8d", text: "Subscribe for news"}
+
 
 # About Block
 #aboutTitle: "About the Symposium"
