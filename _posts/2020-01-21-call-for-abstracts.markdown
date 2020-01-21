@@ -2,7 +2,7 @@
 layout: post
 title:  "Call for Abstracts"
 date:   2020-01-21 20:00:00
-isStaticPost: true
+isStaticPost: false
 ---
 ![Symposium](../img/sections-background/logo-text.jpg)
 
