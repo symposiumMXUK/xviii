@@ -59,7 +59,7 @@ heroImage: "nottingham-intro2.jpg"
 heroTitle: "XVIII Symposium of Mexican <typeout> in the UK"
 eventDate: "8-10 July 2020"
 typeoutTextValues: '"", "Students", "Studies"'
-typeoutFallback: "Synergy"
+typeoutFallback: "synergy"
 heroButtons:
  - {permalink: "/blog/call-for-abstracts", text: "Call for abstracts"}
  - {link: "https://gmail.us4.list-manage.com/subscribe?u=218f27bb9dba8523f2151ce38&id=3be3dbcb8d", text: "Subscribe for news"}
