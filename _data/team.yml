@@ -1,60 +1,132 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Alan"
+  surname: "Vega Pasos"
+  title: "Buildings, Energy and Environment Research Group"
+  thumbnailUrl: AlanVega.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  ribbon:
+    #- {abbr: "", title: ""}
+  social:
+    #- {name: "twitter", link: ""}
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Andrea L."
+  surname: "Garduño Jiménez"
+  title: "Environmental Engineering with Food Water Waste Research Group"
+  thumbnailUrl: AndreaGarduno.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+  ribbon:
+    #- {abbr: "", title: ""}
+  social:
+    #- {name: "twitter", link: ""}
+-
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Carlos A."
+  surname: "Gómez Moreno"
+  title: "Manufacturing Engineering"
+  thumbnailUrl: CarlosGomez.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+  ribbon:
+    #- {abbr: "", title: ""}
+  social:
+    #- {name: "twitter", link: ""}
+-
+  id: 3
+  name: "Carlos A."
+  surname: "Osorio Sandoval"
+  title: "Centre for Structural Engineering and Informatics"
+  thumbnailUrl: CarlosOsorio.jpg
+  team: true
+  ribbon:
+    #- {abbr: "", title: ""}
+  social:
+    #- {name: "twitter", link: ""}
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+  name: "Cristina"
+  surname: "Ferro Barbosa"
+  title: "Manufacturing Engineering"
+  thumbnailUrl: CristinaFerro.jpg
+  team: true
+  ribbon:
+    #- {abbr: "", title: ""}
+  social:
+    #- {name: "twitter", link: ""}
+-
+  id: 5
+  name: "Francisco"
+  surname: "González"
+  title: "Business School"
+  thumbnailUrl: FranciscoGonzalez.jpg
+  team: true
+  ribbon:
+    #- {abbr: "", title: ""}
+  social:
+    #- {name: "twitter", link: ""}
+-
+  id: 6
+  name: "Gisela"
+  surname: "Reyes Cruz"
+  title: "Human Computer Interaction"
+  thumbnailUrl: GiselaReyes.jpg
+  team: true
+  ribbon:
+    #- {abbr: "", title: ""}
+  social:
+    #- {name: "twitter", link: ""}
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  name: "Jesús"
+  surname: "Molinar Díaz"
+  title: "Materials Engineering and Materials Design"
+  thumbnailUrl: JesusMolinar.jpg
+  team: true
+  ribbon:
+    #- {abbr: "", title: ""}
+  social:
+    #- {name: "twitter", link: ""}
+-
+  id: 8
+  name: "Jorge A."
+  surname: "Llamas Orozco"
+  title: "Sustainable Energy Technologies"
+  thumbnailUrl: JorgeLlamas.jpg
+  team: true
+  ribbon:
+    #- {abbr: "", title: ""}
+  social:
+    #- {name: "twitter", link: ""}
+-
+  id: 9
+  name: "Gustavo"
+  surname: "Berumen Salazar"
+  title: "Human and Computer Interaction"
+  thumbnailUrl: GustavoBerumen.jpg
+  team: true
+  ribbon:
+    #- {abbr: "", title: ""}
+  social:
+    #- {name: "twitter", link: ""}
+-
+  id: 10
+  name: "Paulyna G."
+  surname: "Magaña Gómez"
+  title: "Molecular Therapeutics and Formulation Research Group"
+  thumbnailUrl: PaulynaMagana.jpg
+  team: true
+  ribbon:
+    #- {abbr: "", title: ""}
+  social:
+    #- {name: "twitter", link: ""}
+-
+  id: 11
+  name: "Yarely"
+  surname: "Aguilar Pérez"
+  title: "Buildings, Energy and Environment Research Group"
+  thumbnailUrl: YarelyAguilar.jpg
+  team: true
+  ribbon:
+    #- {abbr: "", title: ""}
+  social:
+    #- {name: "twitter", link: ""}

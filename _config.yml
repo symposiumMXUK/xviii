@@ -46,7 +46,7 @@ navigationLinks:
  #- {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
- #- {permalink: "/team/", text: "Team"}
+ - {permalink: "/about/", text: "About"}
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -55,7 +55,7 @@ rightNavigationButtons:
  #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "nottingham-intro2.jpg"
+heroImage: "nottingham-intro-dark.jpg"
 heroTitle: "XVIII Symposium of Mexican Studies and Students in the UK"
 eventDate: "8-10 July 2020, Nottingham UK"
 #typeoutTextValues: '"", "Students", "Studies"'
@@ -115,9 +115,9 @@ latestNewsTitle: "Latest news"
 #venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
-#tweetsFeedImage: "twitter-feed.jpg"
-#tweetsFeedTitle: "What's Up?"
-#twitterHashTag: "symposiumMXuk2020"
+tweetsFeedImage: "hugh-stewart-hall.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "symposiumMXuk2020"
 #twitterFeed: ""
 
 # Partners Block
@@ -129,7 +129,7 @@ latestNewsTitle: "Latest news"
 # Footer
 socialLinks:
  - {link: "https://twitter.com/MX_Symposium", icon: "twitter"}
- #- {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://www.facebook.com/symposiumMXinUK/", icon: "facebook"}
 footerBlocks:
  #-
   #title: "Links"
@@ -149,4 +149,5 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "The Symposium of Mexican students and studies in the UK is a space for scientific and academic dissemination intended for students, researchers, research centres and companies interested in the scientific, technological and multidisciplinary development of Mexico and Latin America. This year, the symposium will be hosted by the University of Nottingham. Our main theme is 'Synergy, the Link to the Future'. The Oxford dictionary defines the word “synergy” as the collaboration of two or more agents to produce a combined effect greater than the sum of their separate effects. The organising committee decided to use this word to highlight the importance of the interaction between the disciplines. We are stronger together and our knowledge works better when we share it, discuss it, integrate it and apply it. Therefore, we think that indeed, working together (in synergy) is the right path to a better future.
+"

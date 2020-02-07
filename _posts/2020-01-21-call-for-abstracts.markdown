@@ -30,8 +30,9 @@ Timetable:
 * __27th February 2020:__ Abstract submission deadline.
 * __15th - 30th March 2020:__ Notification of acceptance.
 * __15th May 2020:__ Registration deadline.
-* __19th June 2020:__ Full manuscript deadline (only for publication-accepted abstracts).
 * __8th July 2020:__ Beginning of XVII Symposium of Mexican Studies and Students in the UK.
+
+UPDATE: No full manuscript is required for accepted abstracts. 
 
 Nos vemos en Nottingham,
 
