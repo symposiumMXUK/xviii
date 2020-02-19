@@ -16,8 +16,8 @@ description: "XVIII Symposium of Mexican Studies and Students in the UK"
 baseurl: "/xviii"
 url: "http://symposiumMXUK.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: "UA-158659681-1"
+googleAnalyticsSiteUrl: "symposiummx.com"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -36,17 +36,16 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-#c4pUrl: "http://bit.ly/dfua-c4p"
 abstractTemplate: "/assets/Abstract_template_XVIII_Mexican_Symposium.docx"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- #- {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/about/", text: "About"}
+ - {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/about/", text: "About"}
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -66,19 +65,19 @@ heroButtons:
 
 
 # About Block
-#aboutTitle: "About the Symposium"
-#aboutBlock:
- #- {title: "Presentations", image: "conference.jpg", text: "testo aqui" }
- #- {title: "Posters", image: "workshop.jpg", text: "testo aca" }
- #- {title: "Networking", image: "hackathon.jpg", text: "blah bleh blah" }
+aboutTitle: "About the Symposium"
+aboutBlock:
+ - {title: "Presentations", image: "presentations.jpg", text: "Two days of keynote presentations from outstanding leaders in relevant fields, as well as academic presentations and poster sessions of accepted submissions." }
+ - {title: "Panels", image: "panels.jpg", text: "This year's edition theme is “Synergy, the link to the future”, therefore some abstracts will be selected for panel discussions during the conference. " }
+ - {title: "Networking", image: "networking.jpg", text: "This event brings together people from different areas or fields based in Mexico and all over the UK, enabling relevant academic and professional connections." }
 
 # Statistic Block
-#statisticBlockImage: "statistic.jpg"
-#statisticBlock:
- #- {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- #- {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- #- {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- #- {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "150", specialCharacter: "+", info: "attendees", detail: "from Mexico and the UK"}
+ - {count: "3", specialCharacter: "", info: "days", detail: "of presentations, panels and networking"}
+ - {count: "15", specialCharacter: "+", info: "keynote talks", detail: "from outstanding leaders in relevant fields"}
+ - {count: "4", specialCharacter: "", info: "multi-disciplinary categories", detail: "working in synergy"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -90,20 +89,20 @@ latestNewsTitle: "Latest news"
 #rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-#locationBlockTitle: "Location"
-#eventLocationName: "University of Nottingham"
-#eventLocationLink: "https://www.nottingham.ac.uk/"
-#eventStreetAddress: "22 Teatral'na St"
-#eventAddressLocality: "Lviv"
-#eventAddressLocalityRegion: "Lvivska"
-#eventPostalCode: "79000"
-#eventAddressCountry: "Ukraine"
-#eventStartTime: "2014-10-25T10:00"
+locationBlockTitle: "Location"
+eventLocationName: "University of Nottingham"
+eventLocationLink: "https://www.nottingham.ac.uk/"
+eventStreetAddress: "University Park Campus"
+eventAddressLocality: "Nottingham"
+eventAddressLocalityRegion: "Nottinghamshire"
+eventPostalCode: "NG7 2RD"
+eventAddressCountry: "United Kingdom"
+#eventStartTime: "2020-07-208T16:00"
 #eventDoorTime: "09:00"
-#eventEndTime: "2014-10-25T20:00"
-#eventPlaceCoordinates: "49.843237, 24.028751"
-#mapCenterCoordinates: "49.842537, 24.025701"
-#mapMobileCenterCoordinates: "49.841620, 24.029411"
+#eventEndTime: "2020-07-10T18:00"
+eventPlaceCoordinates: "49.843237, 24.028751"
+mapCenterCoordinates: "49.842537, 24.025701"
+mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
 #venueBlockTitle: "University of Nottingham"
@@ -131,14 +130,15 @@ socialLinks:
  - {link: "https://twitter.com/MX_Symposium", icon: "twitter"}
  - {link: "https://www.facebook.com/symposiumMXinUK/", icon: "facebook"}
 footerBlocks:
- #-
-  #title: "Links"
-  #links:
-   #- {link: "http://gdg.org.ua", text: "GDG.org.ua"}
  -
   title: "Contact"
   links:
    - {link: "mailto:symposium.mxuk.2020@gmail.com", text: "symposium.mxuk.2020@gmail.com"}
+ -
+  title: "Information"
+  links:
+   - {permalink: "/faq/", text: "Frequently Asked Questions"}
+
 
 
 # Blog
