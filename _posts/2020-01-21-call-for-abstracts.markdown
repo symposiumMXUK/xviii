@@ -32,7 +32,7 @@ Timetable:
 * __15th May 2020:__ Registration deadline.
 * __8th July 2020:__ Beginning of XVII Symposium of Mexican Studies and Students in the UK.
 
-UPDATE: No full manuscript is required for accepted abstracts. 
+__UPDATE__: Deadline for abstract submission has been extended. Read more about it [here](call-for-abstracts-extension).
 
 Nos vemos en Nottingham,
 

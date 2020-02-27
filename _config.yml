@@ -60,7 +60,7 @@ eventDate: "8-10 July 2020, Nottingham UK"
 #typeoutTextValues: '"", "Students", "Studies"'
 #typeoutFallback: "synergy"
 heroButtons:
- - {permalink: "/blog/call-for-abstracts", text: "Call for abstracts"}
+ - {permalink: "/blog/call-for-abstracts-extension", text: "Call for abstracts"}
  - {link: "https://gmail.us4.list-manage.com/subscribe?u=218f27bb9dba8523f2151ce38&id=3be3dbcb8d", text: "Subscribe for news"}
 
 
