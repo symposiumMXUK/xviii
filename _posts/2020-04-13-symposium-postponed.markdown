@@ -3,6 +3,7 @@ layout: post
 title:  "Symposium Postponed"
 date:   2020-04-13 08:00:00
 isStaticPost: false
+color: "#00bcd4"
 ---
 ![Symposium](../img/sections-background/logo-text.jpg)
 

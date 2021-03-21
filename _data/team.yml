@@ -5,21 +5,13 @@
   title: "Buildings, Energy and Environment Research Group"
   thumbnailUrl: AlanVega.jpg
   team: true
-  ribbon:
-    #- {abbr: "", title: ""}
-  social:
-    #- {name: "twitter", link: ""}
 -
   id: 1
-  name: "Andrea L."
+  name: "Andrea"
   surname: "Garduño Jiménez"
   title: "Environmental Engineering with Food Water Waste Research Group"
   thumbnailUrl: AndreaGarduno.jpg
   team: true
-  ribbon:
-    #- {abbr: "", title: ""}
-  social:
-    #- {name: "twitter", link: ""}
 -
   id: 2
   name: "Carlos A."
@@ -27,10 +19,6 @@
   title: "Manufacturing Engineering"
   thumbnailUrl: CarlosGomez.jpg
   team: true
-  ribbon:
-    #- {abbr: "", title: ""}
-  social:
-    #- {name: "twitter", link: ""}
 -
   id: 3
   name: "Carlos A."
@@ -38,10 +26,6 @@
   title: "Centre for Structural Engineering and Informatics"
   thumbnailUrl: CarlosOsorio.jpg
   team: true
-  ribbon:
-    #- {abbr: "", title: ""}
-  social:
-    #- {name: "twitter", link: ""}
 -
   id: 4
   name: "Cristina"
@@ -49,10 +33,6 @@
   title: "Manufacturing Engineering"
   thumbnailUrl: CristinaFerro.jpg
   team: true
-  ribbon:
-    #- {abbr: "", title: ""}
-  social:
-    #- {name: "twitter", link: ""}
 -
   id: 5
   name: "Francisco"
@@ -60,10 +40,6 @@
   title: "Business School"
   thumbnailUrl: FranciscoGonzalez.jpg
   team: true
-  ribbon:
-    #- {abbr: "", title: ""}
-  social:
-    #- {name: "twitter", link: ""}
 -
   id: 6
   name: "Gisela"
@@ -71,10 +47,6 @@
   title: "Human Computer Interaction"
   thumbnailUrl: GiselaReyes.jpg
   team: true
-  ribbon:
-    #- {abbr: "", title: ""}
-  social:
-    #- {name: "twitter", link: ""}
 -
   id: 7
   name: "Jesús"
@@ -82,10 +54,6 @@
   title: "Materials Engineering and Materials Design"
   thumbnailUrl: JesusMolinar.jpg
   team: true
-  ribbon:
-    #- {abbr: "", title: ""}
-  social:
-    #- {name: "twitter", link: ""}
 -
   id: 8
   name: "Jorge A."
@@ -93,10 +61,6 @@
   title: "Sustainable Energy Technologies"
   thumbnailUrl: JorgeLlamas.jpg
   team: true
-  ribbon:
-    #- {abbr: "", title: ""}
-  social:
-    #- {name: "twitter", link: ""}
 -
   id: 9
   name: "Gustavo"
@@ -104,10 +68,6 @@
   title: "Human and Computer Interaction"
   thumbnailUrl: GustavoBerumen.jpg
   team: true
-  ribbon:
-    #- {abbr: "", title: ""}
-  social:
-    #- {name: "twitter", link: ""}
 -
   id: 10
   name: "Paulyna G."
@@ -115,18 +75,67 @@
   title: "Molecular Therapeutics and Formulation Research Group"
   thumbnailUrl: PaulynaMagana.jpg
   team: true
-  ribbon:
-    #- {abbr: "", title: ""}
-  social:
-    #- {name: "twitter", link: ""}
+
 -
   id: 11
+  name: "Mariana"
+  surname: "Gaytán"
+  title: "School of Psychology"
+  thumbnailUrl: MarianaGaytan.jpg
+  team: true
+
+-
+  id: 12
+  name: "Michael"
+  surname: "Basford"
+  title: "Reliable Wireless Communications for Intra-Vehicular Networks"
+  thumbnailUrl: MichaelBasford.jpg
+  team: true
+
+-
+  id: 13
+  name: "Ulises"
+  surname: "Hernández"
+  title: "Faculty of Engineering Associate"
+  thumbnailUrl: UlisesHernandez.jpg
+  team: true
+
+-
+  id: 14
   name: "Yarely"
   surname: "Aguilar Pérez"
   title: "Buildings, Energy and Environment Research Group"
   thumbnailUrl: YarelyAguilar.jpg
   team: true
-  ribbon:
-    #- {abbr: "", title: ""}
-  social:
-    #- {name: "twitter", link: ""}
+
+-
+  id: 15
+  name: "Lidia Ángeles"
+  surname: "García González"
+  title: "Mexican Cultural Centre (MCC)"
+  thumbnailUrl: LidiaGarcia.png
+  subTeam: true
+
+-
+  id: 16
+  name: "Eduardo"
+  surname: "Estala Rojas"
+  title: "Mexican Cultural Centre (MCC)"
+  thumbnailUrl: EduardoEstala.png
+  subTeam: true
+
+-
+  id: 17
+  name: "Filo"
+  surname: "de la Llata"
+  title: "Coapa & Co"
+  thumbnailUrl: FiloDeLaLlata.jpg
+  subTeam: true
+
+-
+  id: 18
+  name: "Christian"
+  surname: "Chávez López"
+  title: "UNAM, México"
+  #thumbnailUrl: YarelyAguilar.jpg
+  subTeam: true

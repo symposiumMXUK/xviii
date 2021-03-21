@@ -3,6 +3,7 @@ layout: post
 title:  "Deadline extension"
 date:   2020-02-24 13:00:00
 isStaticPost: false
+color: "#00bcd4"
 ---
 ![Symposium](../img/sections-background/logo-text.jpg)
 

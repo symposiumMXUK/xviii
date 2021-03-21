@@ -54,14 +54,14 @@ rightNavigationButtons:
  #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "nottingham-intro-dark.jpg"
+heroImage: "trent_building_3.jpg"
 heroTitle: "XVIII Symposium of Mexican Studies and Students in the UK"
-eventDate: "8-10 July 2020, Nottingham UK"
+eventDate: "1-2 July 2021, Nottingham UK"
 #typeoutTextValues: '"", "Students", "Studies"'
 #typeoutFallback: "synergy"
 heroButtons:
- - {permalink: "/blog/symposium-postponed", text: "Symposium Postponed"}
- - {link: "https://gmail.us4.list-manage.com/subscribe?u=218f27bb9dba8523f2151ce38&id=3be3dbcb8d", text: "Subscribe for news"}
+ - {permalink: "/blog/", text: "Latest News"}
+ #- {link: "https://gmail.us4.list-manage.com/subscribe?u=218f27bb9dba8523f2151ce38&id=3be3dbcb8d", text: "Subscribe for news"}
 
 
 # About Block
@@ -75,9 +75,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "150", specialCharacter: "+", info: "attendees", detail: "from Mexico and the UK"}
- - {count: "3", specialCharacter: "", info: "days", detail: "of presentations, panels and networking"}
+ - {count: "2", specialCharacter: "", info: "days", detail: "of presentations, panels and networking"}
  - {count: "15", specialCharacter: "+", info: "keynote talks", detail: "from outstanding leaders in relevant fields"}
- - {count: "4", specialCharacter: "", info: "multi-disciplinary categories", detail: "working in synergy"}
+ - {count: "4", specialCharacter: "", info: "multi-disciplinary categories", detail: "STEM, Humanities, Business & Politics"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -149,5 +149,5 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "The Symposium of Mexican students and studies in the UK is a space for scientific and academic dissemination intended for students, researchers, research centres and companies interested in the scientific, technological and multidisciplinary development of Mexico and Latin America. This year, the symposium will be hosted by the University of Nottingham. Our main theme is 'Synergy, the Link to the Future'. The Oxford dictionary defines the word “synergy” as the collaboration of two or more agents to produce a combined effect greater than the sum of their separate effects. The organising committee decided to use this word to highlight the importance of the interaction between the disciplines. We are stronger together and our knowledge works better when we share it, discuss it, integrate it and apply it. Therefore, we think that indeed, working together (in synergy) is the right path to a better future.
+aboutUs: "The Symposium of Mexican Studies and Students in the UK is a space for scientific and academic dissemination intended for students, researchers, research centres and companies interested in the scientific, technological and multidisciplinary development of Mexico and Latin America. This year, the symposium will be hosted by the University of Nottingham. Our main theme is 'Synergy, the Link to the Future'. The Oxford dictionary defines the word “synergy” as the collaboration of two or more agents to produce a combined effect greater than the sum of their separate effects. The organising committee decided to use this word to highlight the importance of the interaction between the disciplines. We are stronger together and our knowledge works better when we share it, discuss it, integrate it and apply it. Therefore, we think that indeed, working together (in synergy) is the right path to a better future.
 "
