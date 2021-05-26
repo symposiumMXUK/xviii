@@ -61,7 +61,7 @@ eventDate: "1-2 July 2021, (Online) from Nottingham UK"
 #typeoutFallback: "synergy"
 heroButtons:
  - {permalink: "/blog/", text: "Latest News"}
- #- {link: "https://gmail.us4.list-manage.com/subscribe?u=218f27bb9dba8523f2151ce38&id=3be3dbcb8d", text: "Subscribe for news"}
+ - {permalink: "/#tickets", text: "REGISTER"}
 
 
 # About Block
@@ -81,6 +81,18 @@ statisticBlock:
 
 # Latest News Block
 latestNewsTitle: "Latest news"
+
+# Tickets Block
+ticketsTitle: "Registration"
+ticketsInfo: "Tickets grant access to all conference sessions."
+ticketsOffers:
+ -
+  name: "Attendees"
+  price: "FREE"
+  priceCurrency: ""
+  buyButtonLink: "https://www.eventbrite.com/e/xviii-symposium-of-mexican-studies-and-students-in-the-uk-tickets-156142168429"
+  buyButtonText: "Register Now"
+  ticketContentList: ["1 or 2 days of Symposium", "Access to all sessions", "Enter code if you are presenting"]
 
 # Rockstar Speakers Block
 #rockstarSpeakersImage: "rockstar-speakers.jpg"
