@@ -60,7 +60,7 @@ eventDate: "1-2 July 2021, (Online) from Nottingham UK"
 #typeoutTextValues: '"", "Students", "Studies"'
 #typeoutFallback: "synergy"
 heroButtons:
- - {permalink: "/blog/", text: "Latest News"}
+ - {permalink: "/assets/Programme_XVIII_Symposium_MX_UK.pdf", text: "See Programme"}
  - {permalink: "/#tickets", text: "REGISTER"}
 
 
@@ -127,8 +127,8 @@ mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Tweets Feed Block
 tweetsFeedImage: "hugh-stewart-hall.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "StayAtHome"
+tweetsFeedTitle: "Connect and engage"
+twitterHashTag: "#mexinUK21"
 #twitterFeed: ""
 
 # Partners Block
